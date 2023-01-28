@@ -19,3 +19,7 @@ The working version has:
 * build command: hugo
 * publish directory: public
 
+
+## Thanks
+
+* Jimmy for the Hugo [stack](https://github.com/CaiJimmy/hugo-theme-stack) module.
