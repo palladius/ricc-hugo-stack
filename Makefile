@@ -7,3 +7,10 @@ run-prod:
 modules-blah:
 	hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
 	hugo mod tidy
+
+hugo-theme-stack-removeme:
+	git clone https://github.com/CaiJimmy/hugo-theme-stack hugo-theme-stack-removeme
+
+submodules:
+# from https://stack.jimmycai.com/guide/getting-started
+	git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
