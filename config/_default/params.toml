@@ -16,10 +16,16 @@ emoji = "💛"
 #subtitle = "Developer Advocate, Google Cloud"
 subtitle = "Testing out my first Hugo STACK template"
 
+# Docs: https://stack.jimmycai.com/config/sidebar#avatar
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+#src = "img/avatar.png"
+#src = "static/images/riccardo-2022.png"
+#src = "img/riccardo-2022.png"
+#src = "riccardo-bicicletta-gugol.jpg"
+src = "riccardo-bicicletta-gugol.jpg"
+
 
 [article]
 math = false

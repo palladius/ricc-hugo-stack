@@ -2,6 +2,12 @@ Welcome to Riccardo test on Hugo +
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/05edf93f-0b88-45b2-a166-318956c87756/deploy-status)](https://app.netlify.com/sites/timely-bombolone-ae5bc6/deploys)
 
+Where do images go? From https://stackoverflow.com/questions/71501256/how-to-insert-an-image-in-my-post-on-hugo
+
+* Option 1. Put all of your images in the static/ directory. Then reference the image file with a leading slash, e.g.:
+
+
+
 ## Hugo Theme Stack Starter Template
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
