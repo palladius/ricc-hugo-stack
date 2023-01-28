@@ -1,3 +1,7 @@
+Welcome to Riccardo test on Hugo +
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05edf93f-0b88-45b2-a166-318956c87756/deploy-status)](https://app.netlify.com/sites/timely-bombolone-ae5bc6/deploys)
+
 ## Hugo Theme Stack Starter Template
 
 This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
@@ -6,8 +10,7 @@ It comes with a basic theme structure and configuration. GitHub action has been 
 
 To get started:
 
-1. Click *Use this template*, and create your repository on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+1. done
 
 2. Once the repository is created, create a GitHub codespace asociated with it.
 ![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
@@ -35,11 +38,11 @@ hugo mod tidy
 
 ### Deploy to another static page hostings
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine.
 
 <details>
   <summary>Vercel</summary>
-  
+
 You need to overwrite build command to install manually Go:
 
 ```
