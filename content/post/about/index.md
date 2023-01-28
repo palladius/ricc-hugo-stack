@@ -7,9 +7,9 @@ image: PXL_20221018_051530226.jpg
 categories:
     - Riccardo
 tags:
-    - Riccardo
+#    - Riccardo
     - personal
-    - ChatGPT
+#    - ChatGPT
 ---
 Hello, my name is Riccardo and I am a Developer Advocate for Google Cloud. I have been working in the field of software development for several years and have gained a wealth of experience in a variety of programming languages, including Ruby, Python, and others.
 
