@@ -14,3 +14,5 @@ hugo-theme-stack-removeme:
 submodules:
 # from https://stack.jimmycai.com/guide/getting-started
 	git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
+
+#test:
