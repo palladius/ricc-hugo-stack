@@ -3,7 +3,7 @@ title: "202301 Hugo Howto"
 description:
 date: 2023-01-28T15:54:17+01:00
 image:
-math:
+math: true
 license:
 hidden: false
 comments: true
@@ -13,12 +13,15 @@ categories:
  - Programming
 ---
 
+## About Hugo
+
 Some tips using Hugo:
 
 * Hugo Stack: [miniDemo](https://demo.stack.jimmycai.com/), [Awesome Blog+docs](https://stack.jimmycai.com/),
   [github repo](https://github.com/CaiJimmy/hugo-theme-stack), [Maths](https://dev.stack.jimmycai.com/p/math-typesetting/) .
 * Hugo howto:
-# Assets and image paths
+
+## Assets and image paths
 
 According to [SO](https://stackoverflow.com/questions/71501256/how-to-insert-an-image-in-my-post-on-hugo),
 you can pick two paths:
@@ -36,3 +39,20 @@ hugosite/static/across_column.png
 post/creating-a-new-theme/images
 ![Image alt](images/my-image.jpg)
 ```
+
+## Test math (not working)
+
+Uses Katex: https://katex.org/
+Docs: https://dev.stack.jimmycai.com/p/math-typesetting/
+
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
+
+% \f is defined as #1f(#2) using the macro
+\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+
+\tilde{a}
+\overline{AB}
