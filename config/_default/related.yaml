@@ -8,5 +8,5 @@ indices:
     weight: 100
   - name: "categories"
     weight: 200
-  - name: "BohRiccardo"
-    weight: 300
+  # - name: "BohRiccardo"
+  #   weight: 300

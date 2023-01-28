@@ -4,11 +4,12 @@ description: Welcome to Hugo Theme Stack
 slug: hello-world
 date: 2022-03-06 00:00:00+0000
 image: yellow-desktop-wallpaper.jpg
+draft: true
 #categories:
 #    - Example Category
 tags:
 #    - Example Tag
-    - Test
+#    - Test
     - removeme
 ---
 
@@ -17,4 +18,4 @@ tags:
 For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
 
 > Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
- -->
+-->

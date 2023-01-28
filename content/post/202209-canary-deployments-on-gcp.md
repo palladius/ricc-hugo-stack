@@ -10,7 +10,7 @@ comments: true
 categories:
  - GCP
  - DevOps
- - Programming
+ - Software
 
 #draft: true
 #https://medium.com/google-cloud/draft-canarying-on-gcp-with-cloud-deploy-91b3e4d0ee9a

@@ -37,3 +37,13 @@ social:
       #icon: "link"
       icon: icons8-linkedin-circled
       # TODO Riccardo Icon
+
+
+  - identifier: "medium"
+    name: Medium 🖕🏻
+    url: https://medium.com/@palladiusbonton
+    params:
+      #icon: "link"
+      icon: icons8-medium
+      # TODO Riccardo Icon
+

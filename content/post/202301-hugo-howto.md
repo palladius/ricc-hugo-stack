@@ -1,16 +1,20 @@
 ---
 title: "202301 Hugo Howto"
-description:
+description: Tricks and tips on Hugo, related to my STACK module.
 date: 2023-01-28T15:54:17+01:00
-image:
-math: true
-license:
+#slug: hello-world
+#image: images/articles
+image: images/hugo-cocktail.jpg
+#image: "cover.jpg"
+#image: yellow-desktop-wallpaper.jpg
+#math: true
+#license:
 hidden: false
 comments: true
 #draft: true
 categories:
- - Hugo
- - Programming
+# - Hugo
+ - Software
 ---
 
 ## About Hugo
