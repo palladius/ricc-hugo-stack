@@ -8,6 +8,7 @@ outputs:
 menu:
     main:
         weight: 3
-        params: 
+        params:
             icon: search
 ---
+Search ...
