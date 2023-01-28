@@ -23,6 +23,7 @@ Some tips using Hugo:
 
 ## Assets and image paths
 
+
 According to [SO](https://stackoverflow.com/questions/71501256/how-to-insert-an-image-in-my-post-on-hugo),
 you can pick two paths:
 
