@@ -9,3 +9,9 @@ I got 404.
 https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125?utm_source=404page&utm_campaign=community_tracking
 
 WTF is the  /index.html ?!?
+
+The working version has:
+* basedir: not set.
+* build command: hugo
+* publish directory: public
+
