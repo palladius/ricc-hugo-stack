@@ -7,6 +7,7 @@ draft: false
 tags: [symlink]
 # ANANKE :)
 featured_image: /images/gohugo-default-sample-hero-image.jpg
+# Used by STACK :)
 image: /images/mtg-clone.jpg
 ---
 **Note this is a hard cOPY!!**
