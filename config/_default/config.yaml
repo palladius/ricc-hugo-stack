@@ -13,8 +13,7 @@ DefaultContentLanguage: "en"
 hasCJKLanguage: false
 
 # Change it to your Disqus shortname before using
-disqusShortname: "palladius"
-#disqusShortname: "disqus_7JS1PTrMOB"
+disqusShortname: "disqus_7JS1PTrMOB"
 
 links:
   - title: GitHub
