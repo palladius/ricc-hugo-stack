@@ -1,4 +1,6 @@
 
+dev: run-dev
+
 run-dev:
 	hugo server --disableFastRender
 run-prod:
@@ -17,5 +19,5 @@ submodules:
 
 #test:
 install:
-#	hugo version || gem install hugo 
+#	hugo version || gem install hugo
 	hugo version || brew install hugo

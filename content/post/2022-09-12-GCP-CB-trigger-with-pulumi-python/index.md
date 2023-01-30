@@ -10,6 +10,11 @@ canonicalURL: https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-
 # ANANKE :)
 featured_image: /images/gohugo-default-sample-hero-image.jpg
 image: /images/mtg-clone.jpg
+Categories:
+- symlink
+- GCP
+- pulumi
+- Medium
 ---
 
 The Original article here:  https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-python-330e8b54b2cf
