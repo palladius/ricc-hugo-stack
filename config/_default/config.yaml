@@ -24,3 +24,17 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
+
+
+
+languages:
+  en:
+      languageName: "🇬🇧 English"
+      languagedirection: "ltr"
+      title: "Riccardo 💛 Blog (stack)"
+      weight: 1
+  it:
+      languageName: "🇮🇹 Italiano"
+      languagedirection: "ltr"
+      title: "Il Blog 💛 di Riccardo"
+      weight: 2

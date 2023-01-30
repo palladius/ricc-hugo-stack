@@ -13,9 +13,9 @@ dateFormat:
 
 sidebar:
   emoji: "💛"
-  #subtitle: "Developer Advocate, Google Cloud"
+  subtitle: "Developer Advocate, Google Cloud"
   # too tired to do it now :)
-  subtitle: "Testing out my first Hugo STACK template. Riccardo IMPORTANT: move this under the ricc.rocks repo in a folder so you can leverage the symlinks.."
+  #subtitle: "Testing out my first Hugo STACK template. Riccardo IMPORTANT: move this under the ricc.rocks repo in a folder so you can leverage the symlinks.."
   # Docs: https://stack.jimmycai.com/config/sidebar#avatar
   avatar:
     enabled: true
