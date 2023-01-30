@@ -12,8 +12,11 @@ image: images/hugo-cocktail.jpg
 hidden: false
 comments: true
 #draft: true
+tags:
+- Hugo
+- Software
 categories:
-# - Hugo
+ - Hugo
  - Software
 ---
 
