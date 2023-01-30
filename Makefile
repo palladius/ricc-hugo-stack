@@ -16,3 +16,6 @@ submodules:
 	git submodule add https://github.com/CaiJimmy/hugo-theme-stack/ themes/hugo-theme-stack
 
 #test:
+install:
+#	hugo version || gem install hugo 
+	hugo version || brew install hugo
