@@ -3,7 +3,7 @@
 # initial HEADER :) Lets try to keep it small :)
 title: "💦 KindOf/Symlinked Themes Compared (🏆)"
 date: 2023-01-28T21:17:43+01:00
-draft: false
+draft: true
 tags:
 - symlink
 - clone

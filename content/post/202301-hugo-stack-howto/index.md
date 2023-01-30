@@ -1,10 +1,11 @@
 ---
-title: "202301 Hugo Howto"
+title: "Hugo STACK Howto"
 description: Tricks and tips on Hugo, related to my STACK module.
 date: 2023-01-28T15:54:17+01:00
 #slug: hello-world
 #image: images/articles
 image: images/hugo-cocktail.jpg
+#image: images/multilingual-support-stack.png
 #image: "cover.jpg"
 #image: yellow-desktop-wallpaper.jpg
 #math: true
@@ -19,7 +20,6 @@ categories:
  - Hugo
  - Software
 ---
-
 ## About Hugo
 
 Some tips using Hugo:
@@ -30,7 +30,7 @@ Some tips using Hugo:
 
 ## Assets and image paths
 
-
+<!--
 According to [SO](https://stackoverflow.com/questions/71501256/how-to-insert-an-image-in-my-post-on-hugo),
 you can pick two paths:
 
@@ -46,7 +46,10 @@ hugosite/static/across_column.png
 ```
 post/creating-a-new-theme/images
 ![Image alt](images/my-image.jpg)
-```
+``` -->
+
+![Image Multi language support](images/multilingual-support-stack.png)
+
 
 ## Test math (not working)
 
