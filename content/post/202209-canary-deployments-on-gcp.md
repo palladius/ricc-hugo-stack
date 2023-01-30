@@ -1,6 +1,6 @@
 ---
-title: "Canary Deployments on GCP"
-description: How to achieve camnary deployments with multiple apps in a single repo.
+title: "[Medium] Canary Deployments on GCP"
+description: How to achieve canary deployments with multiple apps in a single repo.
 date: 2023-01-28T11:58:34+01:00
 image: images/riccardo-canary-ravenna.jpeg
 #math: 2+2
@@ -11,6 +11,7 @@ categories:
  - GCP
  - DevOps
  - Software
+ - Medium
 
 #draft: true
 #https://medium.com/google-cloud/draft-canarying-on-gcp-with-cloud-deploy-91b3e4d0ee9a

@@ -31,7 +31,7 @@ article:
   math: false
   readingTime: true
   license:
-    enabled: true
+    enabled: false
     default: "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
@@ -45,7 +45,7 @@ widgets:
         limit: 5
     - type: "categories"
       params:
-        limit: 10
+        limit: 7
     - type: "tag-cloud"
       params:
         limit: 10
