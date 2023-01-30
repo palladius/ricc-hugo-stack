@@ -1,14 +1,16 @@
 ---
-title: "contact"
+title: "Contact Riccardo"
 slug: "contact"
 layout: "contact"
 outputs:
     - html
     - json
+Categories:
+- contact
 menu:
     main:
         weight: -60
         params:
-            icon: contact
+            icon: google-bicycle
 ---
-AAA
+Contact me.
