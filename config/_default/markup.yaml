@@ -1,4 +1,6 @@
 # Markdown renderer configuration
+
+# Needed to render Math..
 goldmark:
   renderer:
       unsafe: false
