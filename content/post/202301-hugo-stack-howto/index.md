@@ -26,7 +26,36 @@ Some tips using Hugo:
 
 * Hugo Stack: [miniDemo](https://demo.stack.jimmycai.com/), [Awesome Blog+docs](https://stack.jimmycai.com/),
   [github repo](https://github.com/CaiJimmy/hugo-theme-stack), [Maths](https://dev.stack.jimmycai.com/p/math-typesetting/) .
-* Hugo howto:
+* Hugo howto: TODO
+
+TLDR:
+
+* 👍 Language Support
+* 👍 Colorful tags
+* 👎🏾 Maths support
+
+## 👍 AWESOME Language support
+
+* italian version of a page: [/it/p/vi-spiego-hugo--stack](/it/p/vi-spiego-hugo--stack/)
+* english version: [/it/p/vi-spiego-hugo--stack/](/p/hugo-stack-howto/)
+
+## 👎🏾 Test math (not working)
+
+Uses Katex: https://katex.org/
+Docs: https://dev.stack.jimmycai.com/p/math-typesetting/
+
+{{ if or .Params.math .Site.Params.math }}
+{{ partial "math.html" . }}
+{{ end }}
+
+% \f is defined as #1f(#2) using the macro
+\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+
+\tilde{a}
+\overline{AB}
+
 
 ## Assets and image paths
 
@@ -50,20 +79,8 @@ post/creating-a-new-theme/images
 
 ![Image Multi language support](images/multilingual-support-stack.png)
 
+* images/ under each article
+* img/ in content/img/
+* static/images/ but still didnt figure out how to use them :/
 
-## Test math (not working)
 
-Uses Katex: https://katex.org/
-Docs: https://dev.stack.jimmycai.com/p/math-typesetting/
-
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
-
-% \f is defined as #1f(#2) using the macro
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
-
-\tilde{a}
-\overline{AB}
