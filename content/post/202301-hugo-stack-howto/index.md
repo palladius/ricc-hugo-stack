@@ -36,6 +36,8 @@ TLDR:
 
 ## 👍 AWESOME Language support
 
+Intenrazioanlization docs: https://stack.jimmycai.com/config/i18n
+
 * italian version of a page: [/it/p/vi-spiego-hugo--stack](/it/p/vi-spiego-hugo--stack/)
 * english version: [/it/p/vi-spiego-hugo--stack/](/p/hugo-stack-howto/)
 
@@ -44,9 +46,15 @@ TLDR:
 Uses Katex: https://katex.org/
 Docs: https://dev.stack.jimmycai.com/p/math-typesetting/
 
-{{ if or .Params.math .Site.Params.math }}
-{{ partial "math.html" . }}
-{{ end }}
+{{if or .Params.math .Site.Params.math}}
+{{partial "math.html" . }}
+{{end }}
+
+{{$$ a_i $$}}
+
+
+
+$$ a_i $$
 
 % \f is defined as #1f(#2) using the macro
 \f\relax{x} = \int_{-\infty}^\infty
