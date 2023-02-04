@@ -1,14 +1,15 @@
 ---
 # Note this is SUPER weird, I try to make this work for ALL my thingies so there might be some behavioural clatches in the
 # initial HEADER :) Lets try to keep it small :)
-title: "[GDoc export] My Scuba 🤿 holiday in Indonesia"
+title: "My Scuba 🤿 holiday in Indonesia"
 date: 2023-01-30T21:17:43+01:00
 draft: false
 tags:
 - personal
 - sport
-# paperMod
-#canonicalURL: https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-python-330e8b54b2cf
+- scuba
+- rubyonrails
+canonicalURL: https://medium.com/p/cf851f0f588/edit
 hidden: false
 # ANANKE :)
 featured_image: /images/hugo-cocktail.jpg
@@ -46,12 +47,16 @@ Self: [https://medium.com/p/cf851f0f588/edit](https://medium.com/p/cf851f0f588/e
 Status: draft
 Version: **0.1**
 
+Note: this is a [GDoc export].
 ---
 
-
+<!--
 {{with .Resources.GetMatch "scuba--rn7opz2oo.jpg"}}
   <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
 {{end}}
+-->
+
+
 
 # My Scuba Diving experience in Raja Ampat..
 
