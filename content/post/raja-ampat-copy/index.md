@@ -1,7 +1,7 @@
 ---
 # Note this is SUPER weird, I try to make this work for ALL my thingies so there might be some behavioural clatches in the
 # initial HEADER :) Lets try to keep it small :)
-title: "My Scuba 🤿 holiday in Indonesia"
+title: "[COPY] My Scuba 🤿 holiday in Indonesia [removeme]"
 date: 2023-01-30T21:17:43+01:00
 draft: false
 tags:
