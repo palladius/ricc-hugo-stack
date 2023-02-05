@@ -1,5 +1,5 @@
 ---
-title: "Hugo STACK Howto"
+title: "Hugo STACK Howto w/ Math"
 description: Tricks and tips on Hugo, related to my STACK module.
 date: 2023-01-28T15:54:17+01:00
 #slug: hello-world
@@ -8,7 +8,7 @@ image: images/hugo-cocktail.jpg
 #image: images/multilingual-support-stack.png
 #image: "cover.jpg"
 #image: yellow-desktop-wallpaper.jpg
-#math: true
+math: true
 #license:
 hidden: false
 comments: true
@@ -46,23 +46,24 @@ Intenrazioanlization docs: https://stack.jimmycai.com/config/i18n
 Uses Katex: https://katex.org/
 Docs: https://dev.stack.jimmycai.com/p/math-typesetting/
 
-{{if or .Params.math .Site.Params.math}}
-{{partial "math.html" . }}
-{{end }}
-
-{{$$ a_i $$}}
-
-
 
 $$ a_i $$
 
-% \f is defined as #1f(#2) using the macro
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
+$$ a_i $$
 
-\tilde{a}
-\overline{AB}
+$ $  % \f is defined as #1f(#2) using the macro $ $
+
+$$ \f\relax{x} = \int_{-\infty}^\infty    \f\hat\xi\,e^{2 \pi i \xi x}    \,d\xi $$
+
+$$ \f\relax{x} = \int_{-\infty}^\infty    \f\hat\xi\,e^{2 \pi i \xi x}    \,d\xi $$
+
+$$\tilde{a}$$
+$$\overline{AB}$$
+
+$$ \begin{Bmatrix} \
+   a & b \\ \
+   c & d \
+\end{Bmatrix} $$
 
 
 ## Assets and image paths

@@ -1,10 +1,9 @@
 # Change baseurl before deploy
 baseurl: "https://hugo-stack.ricc.rocks"
-#baseurl: 'https://timely-bombolone-ae5bc6.netlify.app/'
 languageCode: "en"
 #languageCode: "en-us"
 paginate: 5
-title: "Riccardo 💛 Stack"
+title: "Ricc 💛 Stack (obsolete)"
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 DefaultContentLanguage: "en"
@@ -31,10 +30,10 @@ languages:
   en:
       languageName: "🇬🇧 English"
       languagedirection: "ltr"
-      title: "Riccardo 💛 Blog (stack)"
+      title: "Ricc 💛 Blog (stack) [OBSOLETE]"
       weight: 1
   it:
       languageName: "🇮🇹 Italiano"
       languagedirection: "ltr"
-      title: "Il Blog 💛 di Riccardo"
+      title: "Il Blog 💛 di Riccardo (obsoleto)"
       weight: 2

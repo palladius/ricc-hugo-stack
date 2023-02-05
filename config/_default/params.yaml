@@ -5,7 +5,7 @@ rssFullContent: true
 
 footer:
   since: 2023
-  customText: "🌎 <a href='https://hugo-stack.ricc.rocks/'>hugo-stack.ricc.rocks/</a> Last built on TODO"
+  customText: "🌎 <a href='https://hugo-stack.ricc.rocks/'>hugo-stack.ricc.rocks/</a> See also <a href='https://ricc.rocks/'>ricc.rocks/</a>" # Last built on TODO
 
 dateFormat:
   published: "02 Jan 2006"
