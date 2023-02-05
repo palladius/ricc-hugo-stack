@@ -1,62 +1,30 @@
 ---
 # Note this is SUPER weird, I try to make this work for ALL my thingies so there might be some behavioural clatches in the
 # initial HEADER :) Lets try to keep it small :)
-title: "[COPY] My Scuba 🤿 holiday in Indonesia [removeme]"
+title: SYML 💦 My Scuba 🤿 holiday in Indonesia
 date: 2023-01-30T21:17:43+01:00
 draft: false
 tags:
 - personal
 - sport
-- scuba
-- rubyonrails
-canonicalURL: https://medium.com/p/cf851f0f588/edit
-hidden: false
+# paperMod
+#canonicalURL: https://medium.com/google-cloud/setting-cloudbuild-with-pulumi-in-python-330e8b54b2cf
 # ANANKE :)
-featured_image: /images/hugo-cocktail.jpg
-# /images/scuba--tnomzk5zfnr.jpg
-#image: images/scuba--tnomzk5zfnr.jpg
-image: "scuba--jo09uvup59g.jpg" # tartaruyga
-#image: images/hugo-cocktail.jpg
+featured_image: /images/riccardo/riccardo-smiles-swim-ironman.jpeg
+image: /images/riccardo/riccardo-bike-mallorca.jpg
 #image: imagez/riccardo-smiles-swim-ironman.jpeg
 #image: images/feature2/color-palette.png
 Categories:
-#- symlink
+- symlink
 - holidays
-#- rajaamapt
-- rubyonrails
-- code
-images:
-- scuba--rn7opz2oo.jpg
-# - /scuba--rn7opz2oo.jpg
-# - images/scuba--tnomzk5zfnr.jpg
-# - /images/scuba--tnomzk5zfnr.jpg
-# - hugo-cocktail.jpg
+# images:
 # - /images/riccardo/riccardo-smiles-swim-ironman.jpeg
-# - "scuba--4kl75dqag8l.jpg"
-# - "scuba--4rx3qr0wnkk.jpg"
-# - "scuba--4s5obbog0je.jpg"
-# - "scuba--7qqeh3owtge.jpg"
-# - "scuba--92kef42brna.jpg"
-# - "scuba--jo2nuuxek58.jpg"
-# - "scuba--jo09uvup59g.jpg"
-# - "scuba--ks67tanqqui.jpg"
-# - "scuba--n82h94fc7s.jpg"
-# - "scuba--tnomzk5zfnr.jpg"
 ---
 Self: [https://medium.com/p/cf851f0f588/edit](https://medium.com/p/cf851f0f588/edit)
 Status: draft
 Version: **0.1**
 
-Note: this is a [GDoc export].
 ---
-
-<!--
-{{with .Resources.GetMatch "scuba--rn7opz2oo.jpg"}}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{end}}
--->
-
-
 
 # My Scuba Diving experience in Raja Ampat..
 
@@ -70,7 +38,9 @@ A beautiful and rare animal who could be extinct in a few decades, and beside hi
 
 ### The trip
 
-![image](scuba--rn7opz2oo.jpg)
+![image](/scuba--rn7opz2oo.jpg)
+
+
 
 
 This is Raja Ampat, west of Indonesia
